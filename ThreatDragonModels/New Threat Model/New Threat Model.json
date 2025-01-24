@@ -1,0 +1,36 @@
+{
+  "version": "2.3.0",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "Kahla",
+    "description": "Internal project regarding xxx.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "azeem"
+      },
+      {
+        "name": "Eli"
+      },
+      {
+        "name": "Evgenii"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.3.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "prodsec",
+    "threatTop": 0
+  }
+}
